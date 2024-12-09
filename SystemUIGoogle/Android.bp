@@ -59,8 +59,6 @@ android_library {
         "tensorflowlite_java",
         "android.frameworks.stats-V1-java",
         "vendor-pixelatoms-java",
-        "smartspace-proto-java",
-        "smartspace-proto-lite-java",
         "guava",
         "googlebattery-lib",
         "google-battery",
